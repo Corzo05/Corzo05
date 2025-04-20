@@ -23,7 +23,7 @@ ya sea para dudas, ofertas laborales o
 colaboración en proyectos:
 
 - :email: josedcor1612@gmail.com
-- :page_with_curl: [Curriculum](https://drive.google.com/file/d/1RXXtkB3rroW3pTihB1PD8C1A2GsRA4Bz/view?usp=sharing)
+- :page_with_curl: [Curriculum](https://drive.google.com/file/d/1yb2vcWnSKlQuYdFKNmmjT2SmM-IYJgG9/view?usp=sharing)
 - :briefcase: [Portafolio Web](https://corzodev-portfolio.vercel.app/) 
 
 ## :computer: Lenguajes o Tecnologías con las que he trabajado
